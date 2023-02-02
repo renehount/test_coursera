@@ -1,0 +1,2 @@
+## Print text
+print('Hello')
